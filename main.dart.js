@@ -51721,7 +51721,7 @@ A.Ym.prototype={
 $0:function(){this.a.e=this.b.a},
 $S:0}
 F.z8.prototype={
-N:function(a,b){return new S.qi(new F.r3(null),"Startup Name Generator",X.a6d(C.q_,null,C.j),null)}}
+N:function(a,b){return new S.qi(new F.r3(null),"Startup Name Generator By Hosam",X.a6d(C.q_,null,C.j),null)}}
 F.uV.prototype={
 Lr:function(){var s=null
 return new B.qb(new G.U1(new F.YQ(this),s,!0,!0,!0),new V.b7(16,16,16,16),C.m,!1,s,!0,C.or,!1,s,s,C.aa,C.r6,s,C.aQ,s)},
