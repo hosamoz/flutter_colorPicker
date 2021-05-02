@@ -51721,13 +51721,13 @@ A.Ym.prototype={
 $0:function(){this.a.e=this.b.a},
 $S:0}
 F.z8.prototype={
-N:function(a,b){return new S.qi(new F.r3(null),"Startup Name Generator By Hosam",X.a6d(C.q_,null,C.j),null)}}
+N:function(a,b){return new S.qi(new F.r3(null),"Hosam's Startup Name Generator",X.a6d(C.q_,null,C.j),null)}}
 F.uV.prototype={
 Lr:function(){var s=null
 return new B.qb(new G.U1(new F.YQ(this),s,!0,!0,!0),new V.b7(16,16,16,16),C.m,!1,s,!0,C.or,!1,s,s,C.aa,C.r6,s,C.aQ,s)},
 b2:function(){this.bA()
 this.d.bU(0,new F.YU(this),t.P)},
-N:function(a,b){var s=null,r=L.ji("Startup Name Generator",s,s,s)
+N:function(a,b){var s=null,r=L.ji("Hosam's Name Generator",s,s,s)
 return M.a5W(E.a3R(H.b([B.Nf(s,L.a1y(C.wT),this.gPW(),s)],t.E),s,r),this.Lr())},
 oR:function(){var s=0,r=P.aa(t.z),q=this,p,o,n
 var $async$oR=P.a6(function(a,b){if(a===1)return P.a7(b,r)
